@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic_settings
+passlib
+bcrypt==3.2.0
+python-jose
+python-dotenv
+sqlmodel
+asyncpg
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+alembic
+redis>=5.0.0
