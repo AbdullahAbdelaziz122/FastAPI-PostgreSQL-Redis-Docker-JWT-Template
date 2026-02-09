@@ -54,8 +54,7 @@ FastAPI-PostgreSQL-Redis-Docker-JWT-Template/
 │   ├── main.py                 # Application entry point
 │   ├── models.py               # SQLAlchemy models
 │   └── schemas.py              # Pydantic schemas
-├── resources/                  # Additional resources
-│   └── Database_Schema.drawio  # Database schema diagram
+│
 ├── docker-compose.yml          # Docker Compose configuration
 ├── Dockerfile                  # Docker image definition
 ├── alembic.ini                 # Alembic configuration
